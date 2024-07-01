@@ -4,12 +4,16 @@ This is the UI automation for Sauce Demo website
 # Website Automated - https://www.saucedemo.com/
 # Scenarios covered : 
 Scenario 1: Check the login
+
 Scenario 2: Sorting products by Low to High
+
 Scenario 3: Checkour flow -  Login as standard user,
                              Add few products to the cart, 
                              Checkout the cart
                              Add delivery details
+
 Scenario 4: Removing a product from cart
+
 Scenario 5: Log out 
 
 # How I created this project :
